@@ -1,0 +1,6 @@
+{
+    "python.createEnvironment.trigger": "prompt",
+    "python.globalModuleInstallation": true,
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "python.defaultInterpreterPath": "/opt/homebrew/Caskroom/miniforge/base/bin/python"
+}
